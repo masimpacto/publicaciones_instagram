@@ -46,5 +46,5 @@ marcados con (completar) no se pudieron inferir de las placas.
 
 - **My keyword CTA, if I use one:** (completar; hoy el CTA es "Escribinos por WhatsApp")
 - **What the keyword sends them:** WhatsApp 11 7650 5000, con demo de cómo funcionaría en su clínica.
-- **Where my link goes:** masimpacto.com.ar
+- **Where my link goes:** masimpactoia.com
 - **Cierre estándar:** "Escribinos por WhatsApp y te mostramos cómo funcionaría en tu clínica."
