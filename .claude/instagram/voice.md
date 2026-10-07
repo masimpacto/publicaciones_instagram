@@ -39,6 +39,17 @@ figuran en ninguna de esas fuentes.
 3. Una clínica pierde pacientes por mensajes sin contestar y por tareas que hoy son manuales (turnos, reprogramaciones, obras sociales).
 4. Un Empleado IA bien configurado deriva a una persona cuando corresponde, según las reglas de cada clínica.
 
+## Dolor central que dispara el CTA "TURNOS"
+
+Los mensajes se acumulan durante horas sin respuesta y quedan pendientes para el día siguiente. Los pacientes se molestan por la demora en conseguir un turno. El Empleado IA responde y agenda en el momento, las 24 horas.
+
+- **Cómo se usa:** en reels, captions y placas, abrir con este dolor y cerrar con "Comentá TURNOS y te contamos cómo resolverlo".
+- **Ejemplos de ganchos:**
+  - "Tu paciente escribió a las 22. Le contestás mañana. Ya agendó en otra clínica."
+  - "Cuántos mensajes de turnos quedan sin responder cuando cerrás?"
+  - "Cada hora sin responder es un paciente más molesto."
+- **Cuidado:** no inventar cifras de pacientes perdidos. Solo usar números del caso Hiskin.
+
 ## Qué hacen los Empleados IA (los 4 pilares de la web)
 
 1. **Turnos:** agendan, confirman, reprograman y cancelan sobre la agenda real, y buscan disponibilidad en otras sedes.
@@ -76,8 +87,8 @@ Por ahora no hay otros casos: usar solo Hiskin.
 
 ## The ask
 
-- **My keyword CTA, if I use one:** (elegir una; candidatas: TURNOS, RECEPCIÓN, DELEGÁ, EMPLEADO, DEMO. Mientras tanto el CTA es "Escribinos por WhatsApp")
-- **What the keyword sends them:** WhatsApp 11 7650 5000. Mensaje precargado: "Hola, quiero saber más sobre los Empleados IA para mi clínica."
+- **My keyword CTA, if I use one:** TURNOS
+- **What the keyword sends them:** el DM con el WhatsApp 11 7650 5000. Mensaje precargado: "Hola, quiero saber más sobre los Empleados IA para mi clínica."
 - **Where my link goes:** masimpactoia.com
 - **Alternativas de CTA que ya existen:**
   - Diagnóstico: masimpactoia.com/es-ar/diagnostico
