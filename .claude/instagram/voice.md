@@ -28,8 +28,8 @@ figuran en ninguna de esas fuentes.
 - **Words I would never say out loud:** jerga técnica sin traducir (LLM, prompt, modelo, tokens), "revolucionario", "disruptivo", "reemplaza al personal", "diagnostica".
 - **Do I swear:** no
 - **Emoji in captions:** casi nunca (completar si querés uno fijo)
-- **Face on camera:** (completar)
-- **Voiceover or to-camera:** (completar)
+- **Face on camera:** por ahora no se habla a cámara. Podría grabar más adelante. Hasta entonces, los reels van sin cara: texto en pantalla, capturas de chat, voz en off o placas.
+- **Voiceover or to-camera:** voz en off o texto en pantalla (a cámara, solo si se confirma).
 - **Pace:** (completar)
 
 ## My positions
@@ -72,11 +72,11 @@ Caso de éxito verificado: **Cardiología Hiskin**, abril de 2026, WhatsApp en s
 - 47% de reducción de ausentismo
 - Caso completo: masimpactoia.com/es-ar/recursos/caso-cardiologia-hiskin
 
-(completar: otros casos o testimonios, si existen y se pueden nombrar)
+Por ahora no hay otros casos: usar solo Hiskin.
 
 ## The ask
 
-- **My keyword CTA, if I use one:** (completar; hoy el CTA es "Escribinos por WhatsApp")
+- **My keyword CTA, if I use one:** (elegir una; candidatas: TURNOS, RECEPCIÓN, DELEGÁ, EMPLEADO, DEMO. Mientras tanto el CTA es "Escribinos por WhatsApp")
 - **What the keyword sends them:** WhatsApp 11 7650 5000. Mensaje precargado: "Hola, quiero saber más sobre los Empleados IA para mi clínica."
 - **Where my link goes:** masimpactoia.com
 - **Alternativas de CTA que ya existen:**
