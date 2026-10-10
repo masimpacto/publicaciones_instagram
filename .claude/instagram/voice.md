@@ -87,7 +87,7 @@ Por ahora no hay otros casos: usar solo Hiskin.
 
 ## The ask
 
-- **My keyword CTA, if I use one:** TURNOS
+- **My keyword CTA, if I use one:** TURNOS (principal). También RECEPCIÓN, DEMO, CASO y EMPLEADO según el destino del DM (ver plan.md)
 - **What the keyword sends them:** el DM con el WhatsApp 11 7650 5000. Mensaje precargado: "Hola, quiero saber más sobre los Empleados IA para mi clínica."
 - **Where my link goes:** masimpactoia.com
 - **Alternativas de CTA que ya existen:**
